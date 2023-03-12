@@ -1,6 +1,9 @@
 #!/bin/env python3
 import cmd
 
+"""
+Defines a class HBNBCommand
+"""
 class HBNBCommand(cmd.Cmd):
     """Alx Simple command processor"""
 
