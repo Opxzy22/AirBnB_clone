@@ -1,4 +1,4 @@
-#!/bin/env python3
+#!/usr/bin/python3
 """__init__ magic method for models directory"""
 from engine.file_storage import FileStorage
 
